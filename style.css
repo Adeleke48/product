@@ -1,0 +1,40 @@
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.body{
+  background-color: green;
+  width: 100%;
+  height: 100svh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.idan{
+  width: 40rem;
+  height: 40rem;
+  font-size: 1.5rem;
+  background-color: yellowgreen;
+
+  
+}
+.pdisplay{
+  width: 40rem;
+  height:15rem ;
+  background-color: green;
+}
+.pname{
+  width: 40rem;
+  height:7rem ;
+  background-color: pink;
+
+}
+.description{
+  width: 40rem;
+  height:15rem ;
+ background-color: indigo;
+}
